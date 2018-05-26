@@ -17,13 +17,11 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.sk89q.worldedit.blocks;
+package blocks;
 
-import com.sk89q.jnbt.CompoundTag;
-import com.sk89q.jnbt.StringTag;
-import com.sk89q.jnbt.Tag;
-
-import java.util.Collection;
+import jnbt.CompoundTag;
+import jnbt.StringTag;
+import jnbt.Tag;
 
 /**
  * Represents a mutable "snapshot" of a block.

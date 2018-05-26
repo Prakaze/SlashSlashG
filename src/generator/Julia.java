@@ -1,6 +1,6 @@
 package generator;
 
-import com.sk89q.worldedit.blocks.BaseBlock;
+import blocks.BaseBlock;
 
 public class Julia extends Generator{
 

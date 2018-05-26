@@ -1,16 +1,14 @@
 package tools;
 
-import com.sk89q.worldedit.blocks.BaseBlock;
-import com.sk89q.jnbt.ByteArrayTag;
-import com.sk89q.jnbt.CompoundTag;
-import com.sk89q.jnbt.IntTag;
-import com.sk89q.jnbt.ListTag;
-import com.sk89q.jnbt.NamedTag;
-import com.sk89q.jnbt.NBTConstants;
-import com.sk89q.jnbt.NBTOutputStream;
-import com.sk89q.jnbt.ShortTag;
-import com.sk89q.jnbt.StringTag;
-import com.sk89q.jnbt.Tag;
+import blocks.BaseBlock;
+import jnbt.ByteArrayTag;
+import jnbt.CompoundTag;
+import jnbt.IntTag;
+import jnbt.ListTag;
+import jnbt.NBTOutputStream;
+import jnbt.ShortTag;
+import jnbt.StringTag;
+import jnbt.Tag;
 
 
 import java.io.File;

@@ -1,7 +1,7 @@
 package generator;
 
 import tools.SchemSaver;
-import com.sk89q.worldedit.blocks.BaseBlock;
+import blocks.BaseBlock;
 
 public abstract class Generator{
 
